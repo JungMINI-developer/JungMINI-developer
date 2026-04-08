@@ -16,6 +16,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     </div>
     
-![JungMINI-developer's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungMINI-developer&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungMINI-developer&layout=compact&theme=dracula)
+![JungMINI-developer's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungMINI-developer&show_icons=true&theme=dracula&v=2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungMINI-developer&layout=compact&theme=dracula&v=2)
     
