@@ -52,7 +52,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JungMINI-developer&theme=dracula&hide_border=true&locale=ko&date_format=Y.n.j&card_width=495)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JungMINI-developer&theme=dracula&hide_border=true&locale=ko&date_format=Y.n.j&card_width=495)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <sub>비공개 레포 기여를 포함한 수치입니다.</sub>
 
