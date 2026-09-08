@@ -52,8 +52,9 @@
 
 <div align="center">
 
-![JungMINI-developer's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungMINI-developer&show_icons=true&theme=dracula&v=2)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungMINI-developer&layout=compact&theme=dracula&v=2)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JungMINI-developer&theme=dracula&hide_border=true&locale=ko&date_format=Y.n.j&card_width=495)](https://git.io/streak-stats)
+
+<sub>비공개 레포 기여를 포함한 수치입니다.</sub>
 
 </div>
 
