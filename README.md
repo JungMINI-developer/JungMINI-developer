@@ -41,7 +41,7 @@
 | --- | --- | --- | --- |
 | [채택](https://checktask.kr) | 대학생 과제 관리 서비스 | `2025.12 ~ 2026.08` | **Back-End 팀장**(5인), 커밋 291건 · FCM 마감 알림 파이프라인 · checktask.kr 운영 |
 | [투명지](https://tomyongji.com) | 학생회비 투명 공개 플랫폼 | `2026.01 ~ 현재` | **FE 최다 기여** 172건 · 어드민 전체 구현 · 웹 + iOS 실서비스 |
-| [Deokive](https://github.com/Deokive/FE) | 덕질 아카이브 웹 서비스 | `2025.10 ~ 2026.02` | **FE 최다 기여** 197건 · 소셜 로그인, 아카이브 CRUD · 연합동아리 DEPth |
+| [Deokive](https://github.com/JungMINI-developer/Deokive-FE) | 덕질 아카이브 웹 서비스 | `2025.10 ~ 2026.02` | **FE 최다 기여** 197건 · 소셜 로그인, 아카이브 CRUD · 연합동아리 DEPth |
 | [Jumoney](https://github.com/MJU-Capstone-Design-1/Jumoney_Node_BE) | 실시간 시세 · AI 뉴스 분석 백엔드 | `2026.03 ~ 2026.06` | 명지대 캡스톤 · KIS WebSocket → Redis · Gemini 뉴스 분석 · Docker/EC2 |
 
 <sub>Repos · [채택 FE](https://github.com/check-task/frontend) · [채택 Mobile](https://github.com/check-task/mobile-frontend) · [투명지 FE](https://github.com/ToMyongJi/ToMyongJi-front-TS)</sub>
